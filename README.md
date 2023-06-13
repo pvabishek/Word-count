@@ -27,7 +27,7 @@ Print the number of words
 Program to count the number of words in a file
 Developed by: P.V.Abishek
 Register Number: 212222230003
-'''
+
 fp=input("Enter the file name:")
 words=0
 with open(fp,'r') as f:
